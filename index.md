@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<h1>Introduction</h1>
+<h2>My name is Karl Russell Sumando Menil but you can call me “kurt” or as this channel will be called the “M.E.N.I.L STACK” I am a graduate of business administration in 2015, I am currently working as a supply chain manager for the last 4 to 5 years and at present. I am currently a student at MITxpro at the time of the recording of this video on Professional Certificate in Coding: Full Stack Development with MERN. Notable skills that I have are beginner knowledge in html,css and JavaScript for the first few months of year 2021, as mentioned earlier I am a supply chain manager so I manage purchasing/procurement, warehousing and logistics transport I would say with confidence that my skill on my job is adequate.if you have any further questions just comment on the video down below and we will try to answer them on the next vlog or video post, otherwise feel free to leave a thumbs up, subscribe and hit the notification bell for more up to date content that you may watch in the future, you all have a good one.</h2>
 
-You can use the [editor on GitHub](https://github.com/KMenil/GPA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Youtube video:</h2> 
+<h3>https://youtu.be/KXhv0phdgc0</h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>Contact Details:</h1>
+<h2>Github Username:</h2> 
+<h3>https://github.com/KMenil</h3> 
+<h2>LinkedIn link:</h2> 
+<h3>https://www.linkedin.com/in/karl-russell-sumando-menil-715a48205/</h3>
+<h2>Email Address:</h2>
+<h3>KMenil@aim.edu</h3>
+<h2>Contact number used on(viber/whatsapp/wechat):</h2>
+<h3>+639174839591/+639473831118</h3>
 
-### Markdown
+<h1>Pacmen Game:</h1>
+<h2>For this project or a simple game called “pacmen” you can add one or more pacman that moves from edge to edge or all four corners of the browser, for How to Run Roadmap of future improvements License I believe it would be great if I would be able to add ghosts on this game and fruits as well, and make a simple version of pacman with border like maze from the 90’s, in the future I think my professor would like us to make that happen or something similar, rest assured that I would make a vlog while making the game for you to see.</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KMenil/GPA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2>Eye Movement:</h2>
+<h2> For this project or display movement feature is two moving eyes in a blue green back ground the eye or eyes can rotate via mouse motion on counter clockwise and clockwise, How to Run Roadmap of future improvements License information I believe that I would be able to change position of the eyes and make them bounce, as for changing the color of the background to any other color I believe I would be able to do that on click or function change background color on click, of course under WGAC standards which would limit or avoid seizure inducing color or brightness for people with disabilities.</h2>
