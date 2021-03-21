@@ -15,7 +15,9 @@
 <h3>+639174839591/+639473831118</h3>
 
 <h1>Pacmen Game:</h1>
+<h2>https://kmenil.github.io/PACMEN/<h2>
 <h2>For this project or a simple game called “pacmen” you can add one or more pacman that moves from edge to edge or all four corners of the browser, for How to Run Roadmap of future improvements License I believe it would be great if I would be able to add ghosts on this game and fruits as well, and make a simple version of pacman with border like maze from the 90’s, in the future I think my professor would like us to make that happen or something similar, rest assured that I would make a vlog while making the game for you to see.</h2>
 
 <h2>Eye Movement:</h2>
+<h2>https://kmenil.github.io/EM/</h2>
 <h2> For this project or display movement feature is two moving eyes in a blue green back ground the eye or eyes can rotate via mouse motion on counter clockwise and clockwise, How to Run Roadmap of future improvements License information I believe that I would be able to change position of the eyes and make them bounce, as for changing the color of the background to any other color I believe I would be able to do that on click or function change background color on click, of course under WGAC standards which would limit or avoid seizure inducing color or brightness for people with disabilities.</h2>
