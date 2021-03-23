@@ -2,7 +2,7 @@
 <p style="text-align:justify"> My name is Karl Russell Sumando Menil but you can call me “kurt” or as this channel will be called the “M.E.N.I.L STACK” I am a graduate of business administration in 2015, I am currently working as a supply chain manager for the last 4 to 5 years and at present. I am currently a student at MITxpro at the time of the recording of this video on Professional Certificate in Coding: Full Stack Development with MERN. Notable skills that I have are beginner knowledge in html,css and JavaScript for the first few months of year 2021, as mentioned earlier I am a supply chain manager so I manage purchasing/procurement, warehousing and logistics transport I would say with confidence that my skill on my job is adequate.if you have any further questions just comment on the video down below and we will try to answer them on the next vlog or video post, otherwise feel free to leave a thumbs up, subscribe and hit the notification bell for more up to date content that you may watch in the future, you all have a good one.</p>
 
 <h2>Youtube video:</h2> 
-<a href=">https://youtu.be/KXhv0phdgc0</a>
+<a href="https://youtu.be/KXhv0phdgc0"></a>
 
 <h1>Contact Details:</h1>
 <h2>Github Username:</h2> 
