@@ -22,9 +22,9 @@
 <h2>LinkedIn link:</h2> 
 <a href="https://www.linkedin.com/in/karl-russell-sumando-menil-715a48205/">https://www.linkedin.com/in/karl-russell-sumando-menil-715a48205/</a>
 <h2>Email Address:</h2>
-<h3>KMenil@aim.edu</h3>
+<p>KMenil@aim.edu</p>
 <h2>Contact number used on(viber/whatsapp/wechat):</h2>
-<h3>+639174839591/+639473831118</h3>
+<p>+639174839591/+639473831118</p>
 
 <h1>Pacmen Game:</h1>
 <a href="https://github.com/KMenil/PACMEN">https://github.com/KMenil/PACMEN</a>
