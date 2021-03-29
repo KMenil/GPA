@@ -5,7 +5,7 @@
     <meta charset="utf-8">
   <title>Karl Menil’s Profile</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet"></head>
+   <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
  </head>
@@ -30,15 +30,15 @@
 
 <h2>Pacmen Game:</h2>
 <a href="https://github.com/KMenil/PACMEN">https://github.com/KMenil/PACMEN</a>
-<p style="text-align:justify">or this project or a simple game called “pacmen” you can add one or more pacman that moves from edge to edge or all four corners of the browser, for How to Run Roadmap of future improvements License I believe it would be great if I would be able to add ghosts on this game and fruits as well, and make a simple version of pacman with border like maze from the 90’s, in the future I think my professor would like us to make that happen or something similar, rest assured that I would make a vlog while making the game for you to see.</p>
+<p style="text-align:justify">For this project or a simple game called “pacmen” you can add one or more pacman that moves from edge to edge or all four corners of the browser, for How to Run Roadmap of future improvements License I believe it would be great if I would be able to add ghosts on this game and fruits as well, and make a simple version of pacman with border like maze from the 90’s, in the future I think my professor would like us to make that happen or something similar, rest assured that I would make a vlog while making the game for you to see.</p>
 
 <h2>Eye Movement:</h2>
 <a href="https://github.com/KMenil/EM">https://github.com/KMenil/EM</a>
 <p style="text-align:justify">For this project or display movement feature is two moving eyes in a blue green back ground the eye or eyes can rotate via mouse motion on counter clockwise and clockwise, How to Run Roadmap of future improvements License information I believe that I would be able to change position of the eyes and make them bounce, as for changing the color of the background to any other color I believe I would be able to do that on click or function change background color on click, of course under WGAC standards which would limit or avoid seizure inducing color or brightness for people with disabilities.</p>
 
-
-  
-  
+<h2>Real Time Bus Tracking:</h2>
+<a href="https://github.com/KMenil/RBT">https://github.com/KMenil/RBT</a>  
+<p style="text-align:justify">This project is a real time bus tracker, it tracks the bus's real time location near you and shows you where you can anticipate them, but this version cannot locate where you are at this moment, for the future improvements License information i believe that it is appropriate to put a GPS program with the real time bus tracker so that you can see where you are and where the bus is and also to make it more interactive we can also add some more interactive functions such as typing an address or specific location and the map can show you the fastest route or the most convenient route to pass through .</p>  
   </body>
   </html>
 
